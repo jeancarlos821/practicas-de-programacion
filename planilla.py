@@ -29,3 +29,5 @@ Seguro_Social = (salario_Emp_1+salario_Emp_2)*float(0.36656)
 
 print("cuota mensual CSS: ",(Riesgos_Prof+Seguro_Edu+Seguro_Social))
 
+#este es una prueba
+
